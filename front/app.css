@@ -1,0 +1,12 @@
+.active {
+  color: red;
+  font-weight: bold;
+}
+
+.pending {
+  opacity: 0.5;
+}
+
+.transitioning {
+  color: orange;
+}
